@@ -1,0 +1,23 @@
+name: mobileforge-mcp
+displayName: MobileForge - Autonomous Mobile App, React Native/Expo & App Store Engine MCP
+description: Universal mobile development engine for Cursor, Claude Code & Windsurf. Architects full mobile blueprints (Expo vs Flutter decision matrix, navigation trees, state, offline-first), generates production React Native screens with FlashList and dark mode, builds offline SQLite sync engines with conflict resolution, wires Expo push notifications with deep links, and prepares complete App Store & Google Play release kits.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/mobileforge-mcp
+repository: https://github.com/AmyGraphics/mobileforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/mobileforge-mcp/main/icon.png
+keywords:
+  - react-native
+  - expo
+  - mobile
+  - ios
+  - android
+  - app-store
+  - offline-first
+  - push-notifications
+  - eas
+  - cursor
+  - claude
+  - windsurf
+startCommand:
+  type: http
+  url: https://mobileforge-api.agentweb-hub.workers.dev/mcp
